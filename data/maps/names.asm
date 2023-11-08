@@ -1,15 +1,16 @@
-PalletTownName:      db "PALLET TOWN@"
-ViridianCityName:    db "VIRIDIAN CITY@"
-PewterCityName:      db "PEWTER CITY@"
-CeruleanCityName:    db "CERULEAN CITY@"
-LavenderTownName:    db "LAVENDER TOWN@"
-VermilionCityName:   db "VERMILION CITY@"
-CeladonCityName:     db "CELADON CITY@"
-FuchsiaCityName:     db "FUCHSIA CITY@"
-CinnabarIslandName:  db "CINNABAR ISLAND@"
-IndigoPlateauName:   db "INDIGO PLATEAU@"
-SaffronCityName:     db "SAFFRON CITY@"
-Route1Name:          db "ROUTE 1@"
+; the town names match the colors used in the slogans in japanese, and hopefully the palettes
+PalletTownName:      db "QAKUQTUR<LF>VIK@" ; white town
+ViridianCityName:    db "UUJAUJAR<LF>VIK@" ; green town 
+PewterCityName:      db "SIARNAR<LF>VIK@" ; grey town - kajuq = brown
+CeruleanCityName:    db "TUNGUJUQTUR<LF>VIK@"; blue town
+LavenderTownName:    db "TUNGUJUANGAJUR<LF>VIK@" ; purple town
+VermilionCityName:   db "AUPAJAANGAJUR<LF>VIK@" ; orange town (オレンジ夕焼け)
+CeladonCityName:     db "CELADON<LF>VIK@" ; rainbow - must enable beta palette
+FuchsiaCityName:     db "AUPAJAATTUR<LF>VIK@" ; pink - must enable beta palette
+CinnabarIslandName:  db "CINNABAR ISLAND@" ; red. aupaqtuq
+IndigoPlateauName:   db "INDIGO PLATEAU@" ; 石英高原 quartz plateau
+SaffronCityName:     db "QUQSUQTUR<LF>VIK@" ; QUQSUQTUR yellow. golden - yellow-orange (山吹色)
+Route1Name:          db "APQUT 1@" ; apqut - road.
 Route2Name:          db "ROUTE 2@"
 Route3Name:          db "ROUTE 3@"
 Route4Name:          db "ROUTE 4@"

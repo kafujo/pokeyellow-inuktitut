@@ -1,92 +1,92 @@
 ItemNames::
 	list_start ItemNames
-	li "MASTER BALL"
-	li "ULTRA BALL"
-	li "GREAT BALL"
-	li "POKé BALL"
-	li "TOWN MAP"
-	li "BICYCLE"
-	li "?????"
-	li "SAFARI BALL"
-	li "POKéDEX"
-	li "MOON STONE"
-	li "ANTIDOTE"
-	li "BURN HEAL"
-	li "ICE HEAL"
-	li "AWAKENING"
-	li "PARLYZ HEAL"
-	li "FULL RESTORE"
-	li "MAX POTION"
-	li "HYPER POTION"
-	li "SUPER POTION"
-	li "POTION"
-	li "BOULDERBADGE"
-	li "CASCADEBADGE"
-	li "THUNDERBADGE"
-	li "RAINBOWBADGE"
-	li "SOULBADGE"
-	li "MARSHBADGE"
-	li "VOLCANOBADGE"
-	li "EARTHBADGE"
-	li "ESCAPE ROPE"
-	li "REPEL"
-	li "OLD AMBER"
-	li "FIRE STONE"
-	li "THUNDERSTONE"
-	li "WATER STONE"
-	li "HP UP"
-	li "PROTEIN"
-	li "IRON"
-	li "CARBOS"
-	li "CALCIUM"
-	li "RARE CANDY"
-	li "DOME FOSSIL"
-	li "HELIX FOSSIL"
-	li "SECRET KEY"
-	li "?????"
-	li "BIKE VOUCHER"
-	li "X ACCURACY"
-	li "LEAF STONE"
-	li "CARD KEY"
-	li "NUGGET"
-	li "PP UP"
-	li "POKé DOLL"
-	li "FULL HEAL"
-	li "REVIVE"
-	li "MAX REVIVE"
-	li "GUARD SPEC."
-	li "SUPER REPEL"
-	li "MAX REPEL"
-	li "DIRE HIT"
-	li "COIN"
-	li "FRESH WATER"
-	li "SODA POP"
-	li "LEMONADE"
-	li "S.S.TICKET"
-	li "GOLD TEETH"
-	li "X ATTACK"
-	li "X DEFEND"
-	li "X SPEED"
-	li "X SPECIAL"
-	li "COIN CASE"
-	li "OAK's PARCEL"
-	li "ITEMFINDER"
-	li "SILPH SCOPE"
-	li "POKé FLUTE"
-	li "LIFT KEY"
-	li "EXP.ALL"
-	li "OLD ROD"
-	li "GOOD ROD"
-	li "SUPER ROD"
-	li "PP UP"
-	li "ETHER"
-	li "MAX ETHER"
-	li "ELIXER"
-	li "MAX ELIXER"
+	li "MASTER BALL" ; マスターボール
+	li "ULTRA BALL" ; ハイパーボール
+	li "GREAT BALL" ; スーパーボール
+	li "POKé BALL" ; モンスターボール, "capsule"
+	li "nunannguaq" ; map / タウンマップ
+	li "alluraujautiik" ; bicycle / じてんしゃ
+	li "?????" ; surfboard
+	li "SAFARI BALL" ; サファリボール
+	li "POKéDEX" ; ポケモンずかん
+	li "MOON STONE" ; つきのいし
+	li "ANTIDOTE" ; どくけし
+	li "BURN HEAL" ; やけどなおし
+	li "ICE HEAL" ; こおリなおし
+	li "AWAKENING" ; ねむけざまし
+	li "PARLYZ HEAL" ; まひなおし
+	li "FULL RESTORE" ; かいふくのくすリ
+	li "MAX POTION" ; まんたんのくすリ
+	li "HYPER POTION" ; すごいキズぐすリ
+	li "SUPER POTION" ; いいキズぐすリ
+	li "POTION" ; キズぐすリ
+	li "BOULDERBADGE" ; グレーバッジ
+	li "CASCADEBADGE" ; ブルーバッジ
+	li "THUNDERBADGE" ; オレンジバッジ
+	li "RAINBOWBADGE" ; レインボーバッジ
+	li "SOULBADGE" ; ピンクバッジ
+	li "MARSHBADGE" ; ゴールドバッジ
+	li "VOLCANOBADGE" ; クリムゾンバッジ
+	li "EARTHBADGE" ; グリーンバッジ
+	li "ESCAPE ROPE" ; あなぬけのヒモ
+	li "REPEL" ; むしよけスプレー
+	li "OLD AMBER" ; ひみつのコハク
+	li "FIRE STONE" ; ほのおのいし
+	li "THUNDERSTONE" ; かみなリのいし
+	li "WATER STONE" ; みずのいし
+	li "HP UP" ; マックスアップ
+	li "PROTEIN" ; タウリン
+	li "IRON" ; ブロムへキシン
+	li "CARBOS" ; インドメタシン
+	li "CALCIUM" ; リゾチウム
+	li "RARE CANDY" ; ふしぎなアメ
+	li "DOME FOSSIL" ; こうらのカセキ
+	li "HELIX FOSSIL" ; かいのカセキ
+	li "SECRET KEY" ; ひみつのカギ
+	li "?????" ; XXX
+	li "BIKE VOUCHER" ; ひきかえけん
+	li "X ACCURACY" ; ヨクアタール
+	li "LEAF STONE" ; リーフのいし
+	li "CARD KEY" ; カードキー
+	li "NUGGET" ; きんのたま
+	li "PP UP" ; ポイントアップ
+	li "POKé DOLL" ; ピッピにんぎょう
+	li "FULL HEAL" ; なんでもなおし
+	li "REVIVE" ; げんきのかけら
+	li "MAX REVIVE" ; げんきのかたまリ
+	li "GUARD SPEC." ; エフェクトガード
+	li "SUPER REPEL" ; シルバースプレー
+	li "MAX REPEL" ; ゴールドスプレー
+	li "DIRE HIT" ; クリティカッター
+	li "COIN" ; コイン
+	li "IMIQ" ; tsiaq good / おいしいみず / fresh water
+	li "IMIGAQ" ; / サイコソーダ soda pop
+	li "KAAPI" ; coffee / ミックスオレ (milk-juice mix) / lemonade
+	li "S.S.TICKET" ; ふねのチケット
+	li "GOLD TEETH" ; きんのいれば
+	li "X ATTACK" ; プラスパワー
+	li "X DEFEND" ; ディフェンダー
+	li "X SPEED" ; スピーダー
+	li "X SPECIAL" ; スぺシャルアップ
+	li "COIN CASE" ; コインケース
+	li "OAK's PARCEL" ; おとどけもの
+	li "ITEMFINDER" ; ダウジングマシン
+	li "SILPH SCOPE" ; シルフスコープ
+	li "POKé FLUTE" ; ポケモンのふえ
+	li "LIFT KEY" ; エレべータのカギ
+	li "EXP.ALL" ; がくしゅうそうち
+	li "OLD ROD" ; ボロのつリざお
+	li "GOOD ROD" ; いいつリざお
+	li "SUPER ROD" ; すごいつリざお
+	li "PP UP" ; ポイントアップ
+	li "ETHER" ; ピーピーエイド
+	li "MAX ETHER" ; ピーピーリカバー
+	li "ELIXER" ; ピーピーエイダー
+	li "MAX ELIXER" ; ピーピーマックス
 	assert_list_length NUM_ITEMS
-	li "B2F"
+	li "B2F" ; / ちか2かい
 	li "B1F"
-	li "1F"
+	li "1F" ; / 1かい
 	li "2F"
 	li "3F"
 	li "4F"

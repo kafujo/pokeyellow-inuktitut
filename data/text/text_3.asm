@@ -68,9 +68,9 @@ _ComeBackText::
 ; money related
 _PickUpPayDayMoneyText::
 	text "<PLAYER> picked up"
-	line "¥@"
+	line "@"
 	text_bcd wTotalPayDayMoney, 3 | LEADING_ZEROES | LEFT_ALIGN
-	text "!"
+	text "¥!"
 	prompt
 
 _ClearSaveDataText::
@@ -433,56 +433,76 @@ _NotEnoughMemoryText::
 	done
 
 _OakSpeechText1::
-	text "Hello there!"
-	line "Welcome to the"
-	cont "world of #MON!"
-
-	para "My name is OAK!"
-	line "People call me"
-	cont "the #MON PROF!"
+; はじめまして!
+; ポケット モンスターの せかいへ\rようこそ!
+	text "Ai! Katigatkit"; hello there! nice to meet you!
+	line "quvianaq!"
+	cont "POKéMON"; welcome to the world of mon!
+	cont "silarjuanginmut!"
+;わたしの なまえは オーキド
+;みんなからは ポケモン はかせと\rしたわれて おるよ
+	para "URJUujunga!"; my name is URJUK!
+	line "Inuiup"; people
+	cont "taijaangamit"; call me
+	cont "POKéMON-niaqti!"; the pokemon prof!
 	prompt
 
 _OakSpeechText2A::
-	text "This world is"
-	line "inhabited by"
-	cont "creatures called"
-	cont "#MON!@"
+; この せかいには
+; ポケット モンスターと よばれる\cいきもの たちが
+; いたるところに すんでいる!
+	text "Silarjuaqani"; this world is
+	line "uumajuqtalik"; inhabited by creatures called pokemon
+	cont "taijaujumit"
+	cont "POKéMON (uumajuq"; pocket monsters
+	cont "ikpiarjurmiittuq)!@"
 	text_end
 
 _OakSpeechText2B::
-	text $51,"For some people,"
-	line "#MON are"
-	cont "pets. Others use"
-	cont "them for fights."
-
-	para "Myself..."
-
-	para "I study #MON"
-	line "as a profession."
+;その ポケモン という いきものを
+;ひとは ぺットに したリ\rしょうぶに つかったリ・・・ 
+	text $51,"Inuit ukpiqtut"; for some people pkmn are pets
+	line "POKéMON tiguaujut."
+	cont "Aipaup"; others use them for fights
+	cont "POKéMON-tuqtangik"
+	cont "paakutik."
+;そして・・・
+	para "Uvanga..."; myself
+;わたしは この ポケモンの
+;けんきゅうを してる というわけだ
+	para "POKéMON-"
+	line "nialiqtunga.";i am performing research on pokemon
 	prompt
 
 _IntroducePlayerText::
+;では はじめに きみの なまえを
+;おしえて もらおう!
 	text "First, what is"
-	line "your name?"
+	line "kinauvit?"; who are you?
 	prompt
 
 _IntroduceRivalText::
+;こいつは わたしの まご
+;きみの おさななじみであリ\rライバル である
 	text "This is my grand-"
 	line "son. He's been"
 	cont "your rival since"
 	cont "you were a baby."
-
+;・・・えーと?
+;なまえは なんて いったかな?
 	para "...Erm, what is"
 	line "his name again?"
 	prompt
 
 _OakSpeechText3::
 	text "<PLAYER>!"
-
+;いよいよ これから 
+;きみの ものがたリの はじまリだ!
 	para "Your very own"
 	line "#MON legend is"
 	cont "about to unfold!"
-
+;ゆめと ぼうけんと!
+;ポケット モンスターの せかいへ!\rレッツ ゴー!
 	para "A world of dreams"
 	line "and adventures"
 	cont "with #MON"
@@ -490,6 +510,7 @@ _OakSpeechText3::
 	done
 
 _DoYouWantToNicknameText::
+;に ニックネームを つけますか?
 	text "Do you want to"
 	line "give a nickname"
 	cont "to @"
@@ -498,11 +519,15 @@ _DoYouWantToNicknameText::
 	done
 
 _YourNameIsText::
+;ふむ・・・
+;<PLAYER NAME> と いうんだな!
 	text "Right! So your"
 	line "name is <PLAYER>!"
 	prompt
 
 _HisNameIsText::
+;そうだ そうだ! おもいだしたぞ
+;<RIVAL NAME> という なまえだ
 	text "That's right! I"
 	line "remember now! His"
 	cont "name is <RIVAL>!"
