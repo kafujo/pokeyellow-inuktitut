@@ -4,7 +4,7 @@
 
 About the translation:
 
-It is assumed that most people playing this are learners of an Eskimo-Aleut language, not necessarily native speakers of Inuktitut or even learners of Inuktitut itself. For that reason, various care has been taken (or is planned to be taken) in the translation, for example:
+It is assumed that most people playing this are learners of an Eskimo-Aleut language, not necessarily native speakers of Inuktitut or even learners of Inuktitut itself. One reason why Inuktitut was chosen was that it is a decent middle ground between Alaskan Yupik and Greenlandic, and there are dictionaries online for it for players to use. Also for that reason, various care has been taken (or is planned to be taken) in the translation, for example:
 
 - In areas like choosing between the two fossils, where in English you need to know the vocabulary difference between "dome" and "helix" to pick which one you want, pictures have been added.
 
